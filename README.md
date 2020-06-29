@@ -17,6 +17,6 @@ Neighborhood-based (for now) clustering of proteins across structures. Plotting 
 # Seed
 
 Node.js cli-utility for PDB, Uniprot, PFAM data via http:
-    - bulk download 
-    - parsing and restructuring
-    - producing Ban nomenclature maps
+- bulk download 
+- parsing and restructuring
+- producing Ban nomenclature maps
