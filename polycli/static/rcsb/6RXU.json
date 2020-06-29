@@ -1,0 +1,1072 @@
+[
+    {
+        "chainid": "C1",
+        "RNA": true,
+        "entityNr": "50",
+        "length": "2352",
+        "type": "rna",
+        "weight": "758475.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "35S rRNA"
+        }
+    },
+    {
+        "chainid": "C2",
+        "RNA": true,
+        "entityNr": "51",
+        "length": "230",
+        "type": "rna",
+        "weight": "73966.5",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "U3 snoRNA"
+        }
+    },
+    {
+        "chainid": "UA",
+        "name": "Periodic tryptophan protein 2-like protein",
+        "entityNr": "1",
+        "length": "904",
+        "type": "protein",
+        "weight": "100818.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Periodic tryptophan protein 2-like protein"
+        },
+        "accession": "G0SF93"
+    },
+    {
+        "chainid": "UM",
+        "name": "Uncharacterized protein",
+        "entityNr": "10",
+        "length": "912",
+        "type": "protein",
+        "weight": "100430.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp13"
+        },
+        "accession": "G0SG95"
+    },
+    {
+        "chainid": "UN",
+        "name": "Uncharacterized protein",
+        "entityNr": "11",
+        "length": "938",
+        "type": "protein",
+        "weight": "104741.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp14"
+        },
+        "accession": "G0S8Y4"
+    },
+    {
+        "chainid": "UO",
+        "name": "Uncharacterized protein",
+        "entityNr": "12",
+        "length": "557",
+        "type": "protein",
+        "weight": "60524.1",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp15"
+        },
+        "accession": "G0SEI5"
+    },
+    {
+        "chainid": "UQ",
+        "name": "Uncharacterized protein",
+        "entityNr": "13",
+        "length": "960",
+        "type": "protein",
+        "weight": "105040.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp17"
+        },
+        "accession": "G0SCS8"
+    },
+    {
+        "chainid": "UR",
+        "name": "Uncharacterized protein",
+        "entityNr": "14",
+        "length": "618",
+        "type": "protein",
+        "weight": "69055.1",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp18"
+        },
+        "accession": "G0SBN9"
+    },
+    {
+        "chainid": "UU",
+        "name": "Putative U3 snoRNP protein",
+        "entityNr": "15",
+        "length": "1049",
+        "type": "protein",
+        "weight": "115122.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Putative U3 snoRNP protein"
+        },
+        "accession": "G0S872"
+    },
+    {
+        "chainid": "UX",
+        "entityNr": "16",
+        "length": "193",
+        "type": "protein",
+        "weight": "22136.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp24"
+        }
+    },
+    {
+        "chainid": "UZ",
+        "name": "Uncharacterized protein",
+        "entityNr": "17",
+        "length": "391",
+        "type": "protein",
+        "weight": "43700.5",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp30"
+        },
+        "accession": "G0S7X0"
+    },
+    {
+        "chainid": "CA",
+        "name": "Uncharacterized protein",
+        "entityNr": "18",
+        "length": "313",
+        "type": "protein",
+        "weight": "32960.8",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Nop1"
+        },
+        "accession": "G0SGY2"
+    },
+    {
+        "chainid": "CB",
+        "name": "Uncharacterized protein",
+        "entityNr": "18",
+        "length": "313",
+        "type": "protein",
+        "weight": "32960.8",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Nop1"
+        },
+        "accession": "G0SGY2"
+    },
+    {
+        "chainid": "CC",
+        "name": "Putative nucleolar protein",
+        "entityNr": "19",
+        "length": "523",
+        "type": "protein",
+        "weight": "57830.7",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Nop56"
+        },
+        "accession": "G0S2U4"
+    },
+    {
+        "chainid": "UB",
+        "name": "Uncharacterized protein",
+        "entityNr": "2",
+        "length": "907",
+        "type": "protein",
+        "weight": "103961.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp2"
+        },
+        "accession": "G0SDW0"
+    },
+    {
+        "chainid": "CD",
+        "name": "Uncharacterized protein",
+        "entityNr": "20",
+        "length": "582",
+        "type": "protein",
+        "weight": "64292.1",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Nop58"
+        },
+        "accession": "G0RYF6"
+    },
+    {
+        "chainid": "CE",
+        "name": "Uncharacterized protein",
+        "entityNr": "21",
+        "length": "127",
+        "type": "protein",
+        "weight": "13831.9",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Snu13"
+        },
+        "accession": "G0SGM0"
+    },
+    {
+        "chainid": "CF",
+        "name": "Uncharacterized protein",
+        "entityNr": "21",
+        "length": "127",
+        "type": "protein",
+        "weight": "13831.9",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Snu13"
+        },
+        "accession": "G0SGM0"
+    },
+    {
+        "chainid": "CG",
+        "name": "Uncharacterized protein",
+        "entityNr": "22",
+        "length": "630",
+        "type": "protein",
+        "weight": "69610.4",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Rrp9"
+        },
+        "accession": "G0SG51"
+    },
+    {
+        "chainid": "CH",
+        "name": "RNA 3'-terminal phosphate cyclase-like protein",
+        "entityNr": "23",
+        "length": "411",
+        "type": "protein",
+        "weight": "43399.8",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "RNA 3'-terminal phosphate cyclase-like protein"
+        },
+        "accession": "G0S0B1"
+    },
+    {
+        "chainid": "CI",
+        "name": "Uncharacterized protein",
+        "entityNr": "24",
+        "length": "1163",
+        "type": "protein",
+        "weight": "134172.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Bms1"
+        },
+        "accession": "G0S445"
+    },
+    {
+        "chainid": "CJ",
+        "name": "Uncharacterized protein",
+        "entityNr": "25",
+        "length": "183",
+        "type": "protein",
+        "weight": "21802.4",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Imp3"
+        },
+        "accession": "G0SDL4"
+    },
+    {
+        "chainid": "CK",
+        "name": "Putative U3 small nucleolar ribonucleoprotein",
+        "entityNr": "26",
+        "length": "297",
+        "type": "protein",
+        "weight": "34216.3",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Putative U3 small nucleolar ribonucleoprotein"
+        },
+        "accession": "G0SE90"
+    },
+    {
+        "chainid": "CL",
+        "name": "Putative U3 small nucleolar ribonucleoprotein protein",
+        "entityNr": "27",
+        "length": "785",
+        "type": "protein",
+        "weight": "86082.1",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Putative U3 small nucleolar ribonucleoprotein protein"
+        },
+        "accession": "G0S9I7"
+    },
+    {
+        "chainid": "CM",
+        "name": "Uncharacterized protein",
+        "entityNr": "28",
+        "length": "446",
+        "type": "protein",
+        "weight": "50869.8",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Sof1"
+        },
+        "accession": "G0RY94"
+    },
+    {
+        "chainid": "CN",
+        "name": "Uncharacterized protein",
+        "entityNr": "29",
+        "length": "252",
+        "type": "protein",
+        "weight": "27936.2",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Emg1"
+        },
+        "accession": "G0SAY9"
+    },
+    {
+        "chainid": "CO",
+        "name": "Uncharacterized protein",
+        "entityNr": "29",
+        "length": "252",
+        "type": "protein",
+        "weight": "27936.2",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Emg1"
+        },
+        "accession": "G0SAY9"
+    },
+    {
+        "chainid": "UC",
+        "name": "Uncharacterized protein",
+        "entityNr": "3",
+        "length": "648",
+        "type": "protein",
+        "weight": "73214.6",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp3"
+        },
+        "accession": "G0S4H3"
+    },
+    {
+        "chainid": "CP",
+        "name": "KRR1 small subunit processome component",
+        "entityNr": "30",
+        "length": "322",
+        "type": "protein",
+        "weight": "37500.8",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "synonym": {
+            "name": "KRR-R motif-containing protein 1"
+        },
+        "polymerDescription": {
+            "description": "KRR1 small subunit processome component"
+        },
+        "accession": "G0S3V7"
+    },
+    {
+        "chainid": "CQ",
+        "name": "Pre-rRNA-processing protein PNO1",
+        "entityNr": "31",
+        "length": "259",
+        "type": "protein",
+        "weight": "28715.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Pre-rRNA-processing protein PNO1"
+        },
+        "accession": "G0S3T2"
+    },
+    {
+        "chainid": "CR",
+        "name": "RNA cytidine acetyltransferase",
+        "entityNr": "32",
+        "length": "1073",
+        "type": "protein",
+        "weight": "119795.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "synonym": {
+            "name": "18S rRNA cytosine acetyltransferase"
+        },
+        "polymerDescription": {
+            "description": "Kre33"
+        },
+        "enzClass": {
+            "ec": "2.3.1"
+        },
+        "accession": "G0S273"
+    },
+    {
+        "chainid": "CS",
+        "name": "RNA cytidine acetyltransferase",
+        "entityNr": "32",
+        "length": "1073",
+        "type": "protein",
+        "weight": "119795.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "synonym": {
+            "name": "18S rRNA cytosine acetyltransferase"
+        },
+        "polymerDescription": {
+            "description": "Kre33"
+        },
+        "enzClass": {
+            "ec": "2.3.1"
+        },
+        "accession": "G0S273"
+    },
+    {
+        "chainid": "CT",
+        "name": "Uncharacterized protein",
+        "entityNr": "33",
+        "length": "203",
+        "type": "protein",
+        "weight": "22569.1",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Fcf2"
+        },
+        "accession": "G0S4E3"
+    },
+    {
+        "chainid": "Ca",
+        "name": "40S ribosomal protein S1",
+        "entityNr": "34",
+        "length": "255",
+        "type": "protein",
+        "weight": "29245.2",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S1"
+        },
+        "accession": "G0S7T8"
+    },
+    {
+        "chainid": "Cb",
+        "name": "40S ribosomal protein S4",
+        "entityNr": "35",
+        "length": "264",
+        "type": "protein",
+        "weight": "29800.8",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S4"
+        },
+        "accession": "G0S1A6"
+    },
+    {
+        "chainid": "Cc",
+        "name": "40S ribosomal protein s5-like protein",
+        "entityNr": "36",
+        "length": "212",
+        "type": "protein",
+        "weight": "23679.2",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein s5-like protein"
+        },
+        "accession": "G0S1Z0"
+    },
+    {
+        "chainid": "Cd",
+        "name": "40S ribosomal protein S6",
+        "entityNr": "37",
+        "length": "239",
+        "type": "protein",
+        "weight": "27490.1",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S6"
+        },
+        "accession": "G0RY43"
+    },
+    {
+        "chainid": "Ce",
+        "name": "40S ribosomal protein S7",
+        "entityNr": "38",
+        "length": "203",
+        "type": "protein",
+        "weight": "23084.7",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S7"
+        },
+        "accession": "G0S8C4"
+    },
+    {
+        "chainid": "Cf",
+        "name": "40S ribosomal protein S8",
+        "entityNr": "39",
+        "length": "202",
+        "type": "protein",
+        "weight": "23102.4",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S8"
+        },
+        "accession": "G0RY45"
+    },
+    {
+        "chainid": "UD",
+        "name": "Uncharacterized protein",
+        "entityNr": "4",
+        "length": "884",
+        "type": "protein",
+        "weight": "97696.5",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp4"
+        },
+        "accession": "G0SCT7"
+    },
+    {
+        "chainid": "Cg",
+        "name": "40S ribosomal protein s9-like protein",
+        "entityNr": "40",
+        "length": "190",
+        "type": "protein",
+        "weight": "22029.8",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein s9-like protein"
+        },
+        "accession": "G0S0Z4"
+    },
+    {
+        "chainid": "Ch",
+        "name": "40S ribosomal protein S13-like protein",
+        "entityNr": "41",
+        "length": "151",
+        "type": "protein",
+        "weight": "16912.9",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S13-like protein"
+        },
+        "accession": "G0RZM9"
+    },
+    {
+        "chainid": "Ci",
+        "name": "40S ribosomal protein S14-like protein",
+        "entityNr": "42",
+        "length": "150",
+        "type": "protein",
+        "weight": "16071.5",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S14-like protein"
+        },
+        "accession": "G0SFL1"
+    },
+    {
+        "chainid": "Cj",
+        "name": "40S ribosomal protein S16-like protein",
+        "entityNr": "43",
+        "length": "143",
+        "type": "protein",
+        "weight": "15962.8",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S16-like protein"
+        },
+        "accession": "G0SBR7"
+    },
+    {
+        "chainid": "Ck",
+        "name": "40S ribosomal protein S11-like protein",
+        "entityNr": "44",
+        "length": "161",
+        "type": "protein",
+        "weight": "18698.2",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S11-like protein"
+        },
+        "accession": "G0SF00"
+    },
+    {
+        "chainid": "Cm",
+        "name": "40S ribosomal protein S22-like protein",
+        "entityNr": "45",
+        "length": "130",
+        "type": "protein",
+        "weight": "14905.5",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S22-like protein"
+        },
+        "accession": "G0SHI0"
+    },
+    {
+        "chainid": "Cn",
+        "name": "40S ribosomal protein s23-like protein",
+        "entityNr": "46",
+        "length": "145",
+        "type": "protein",
+        "weight": "15934.7",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein s23-like protein"
+        },
+        "accession": "G0RY17"
+    },
+    {
+        "chainid": "Co",
+        "name": "40S ribosomal protein S24",
+        "entityNr": "47",
+        "length": "136",
+        "type": "protein",
+        "weight": "15535.3",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S24"
+        },
+        "accession": "P0CU28"
+    },
+    {
+        "chainid": "Cp",
+        "name": "40S ribosomal protein S28-like protein",
+        "entityNr": "48",
+        "length": "68",
+        "type": "protein",
+        "weight": "7741.98",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S28-like protein"
+        },
+        "accession": "G0S9M9"
+    },
+    {
+        "chainid": "CU",
+        "name": "Uncharacterized protein",
+        "entityNr": "49",
+        "length": "311",
+        "type": "protein",
+        "weight": "34576.6",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Faf1"
+        },
+        "accession": "G0S5F1"
+    },
+    {
+        "chainid": "UF",
+        "name": "Uncharacterized protein",
+        "entityNr": "5",
+        "length": "414",
+        "type": "protein",
+        "weight": "46924.8",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp6"
+        },
+        "accession": "G0S387"
+    },
+    {
+        "chainid": "CW",
+        "name": "Ribosome biogenesis protein ENP2",
+        "entityNr": "52",
+        "length": "668",
+        "type": "protein",
+        "weight": "75833.8",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Ribosome biogenesis protein ENP2"
+        },
+        "accession": "G0S902"
+    },
+    {
+        "chainid": "UT",
+        "name": "DRIM domain-containing protein",
+        "entityNr": "53",
+        "length": "2612",
+        "type": "protein",
+        "weight": "295279.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp20"
+        },
+        "accession": "G0SHP3"
+    },
+    {
+        "chainid": "UH",
+        "name": "Uncharacterized protein CTHT_0071780",
+        "entityNr": "54",
+        "length": "930",
+        "type": "protein",
+        "weight": "102421.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp8"
+        },
+        "accession": "P0CT47"
+    },
+    {
+        "chainid": "UE",
+        "name": "Utp12 domain-containing protein",
+        "entityNr": "55",
+        "length": "410",
+        "type": "protein",
+        "weight": "44663.4",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp5"
+        },
+        "accession": "G0RYX2"
+    },
+    {
+        "chainid": "UI",
+        "name": "Utp12 domain-containing protein",
+        "entityNr": "55",
+        "length": "410",
+        "type": "protein",
+        "weight": "44663.4",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp5"
+        },
+        "accession": "G0RYX2"
+    },
+    {
+        "chainid": "US",
+        "name": "CBF domain-containing protein",
+        "entityNr": "56",
+        "length": "549",
+        "type": "protein",
+        "weight": "63331.7",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Noc4"
+        },
+        "accession": "G0RZL4"
+    },
+    {
+        "chainid": "Cl",
+        "name": "Putative ribosomal protein",
+        "entityNr": "57",
+        "length": "156",
+        "type": "protein",
+        "weight": "17826.7",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Putative ribosomal protein"
+        },
+        "accession": "G0S6J7"
+    },
+    {
+        "chainid": "CX",
+        "name": "Uncharacterized protein",
+        "entityNr": "58",
+        "length": "480",
+        "type": "protein",
+        "weight": "54319.6",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Enp1"
+        },
+        "accession": "G0S5J4"
+    },
+    {
+        "chainid": "CY",
+        "name": "U3 small nucleolar ribonucleoprotein protein lcp5-like protein",
+        "entityNr": "59",
+        "length": "381",
+        "type": "protein",
+        "weight": "42625.4",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "U3 small nucleolar ribonucleoprotein protein lcp5-like protein"
+        },
+        "accession": "G0S7Z2"
+    },
+    {
+        "chainid": "UG",
+        "name": "Uncharacterized protein",
+        "entityNr": "6",
+        "length": "558",
+        "type": "protein",
+        "weight": "63629.4",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp7"
+        },
+        "accession": "G0RZ99"
+    },
+    {
+        "chainid": "CZ",
+        "name": "Uncharacterized protein",
+        "entityNr": "60",
+        "length": "609",
+        "type": "protein",
+        "weight": "69040.6",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Bfr2"
+        },
+        "accession": "G0SAJ6"
+    },
+    {
+        "chainid": "UP",
+        "name": "Uncharacterized protein",
+        "entityNr": "61",
+        "length": "364",
+        "type": "protein",
+        "weight": "40726.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp16"
+        },
+        "accession": "G0S612"
+    },
+    {
+        "chainid": "UJ",
+        "name": "Uncharacterized protein",
+        "entityNr": "7",
+        "length": "1802",
+        "type": "protein",
+        "weight": "198508.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "UTP10"
+        },
+        "accession": "G0S5L1"
+    },
+    {
+        "chainid": "UK",
+        "name": "U3 small nucleolar RNA-associated protein 11",
+        "entityNr": "8",
+        "length": "270",
+        "type": "protein",
+        "weight": "31379.7",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "synonym": {
+            "name": "U3 snoRNA-associated protein 11"
+        },
+        "polymerDescription": {
+            "description": "U3 small nucleolar RNA-associated protein 11"
+        },
+        "accession": "G0SF32"
+    },
+    {
+        "chainid": "UL",
+        "name": "Uncharacterized protein",
+        "entityNr": "9",
+        "length": "962",
+        "type": "protein",
+        "weight": "107573.0",
+        "Taxonomy": {
+            "name": "Chaetomium thermophilum",
+            "id": "209285"
+        },
+        "polymerDescription": {
+            "description": "Utp12"
+        },
+        "accession": "G0RZL9"
+    }
+]

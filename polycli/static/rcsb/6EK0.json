@@ -1,0 +1,1551 @@
+[
+    {
+        "chainid": "L5",
+        "RNA": true,
+        "entityNr": "1",
+        "length": "5070",
+        "type": "rna",
+        "weight": "1641910.0",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "polymerDescription": {
+            "description": "28S ribosomal RNA"
+        },
+        "mutation": {
+            "desc": "G2113C"
+        },
+        "details": {
+            "desc": "Modified nucleotide name present in the sequence Ribose-methylation (OAM; OCM; OGM; OUM) M1A (1-methyladenosine) M6A (6-methyladenosine) 66A (N6,N6-dimethyladenosine) M7A (7-methyladenosine) M3C (3-methylcytidine) E3C (3-ethylcytidine (unknown) A4C (4-acetyl-cytidine) M4C (4-methylcytidine) M5C (5-methylcytidine) PCM (3-propyl-Ribose-methylcytidine) (unknown) M2G (2-methylguanosine) M6G (6-methylguanosine) E6G (6-ethylguanosine) (Unknown) P6G (6-propylguanosine) (Unknown) AGM (7-acetyl-Ribose-methylguanosine) (Unknown) A7G (7-acetylguanosine) (unknown) M7G (7-methylguanosine) E7G (7-ethylguanosine) (Unknown) P7G (7-propylguanosine) (Unknown) MHG (Hyper modification in guanosine) (unknown) OUM (Ribose-METHYLURIDINE) M1U (1-methyluridine) M3U (3-methyluridine) P4U (4-Propyluridine) (Unknown) M5U (5-methyluridine) I4U (4-isopropyluridine) (Unknown) PSU (Pseudouridine) ACP (1-methyl-3-(3-amino-3-carboxypropyl)pseudouridine) 19U (1-methylpseudouridine)"
+        }
+    },
+    {
+        "chainid": "L7",
+        "RNA": true,
+        "entityNr": "2",
+        "length": "120",
+        "type": "rna",
+        "weight": "38691.9",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "polymerDescription": {
+            "description": "5S ribosomal RNA"
+        }
+    },
+    {
+        "chainid": "L8",
+        "RNA": true,
+        "entityNr": "3",
+        "length": "156",
+        "type": "rna",
+        "weight": "50157.7",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "polymerDescription": {
+            "description": "5.8S ribosomal RNA"
+        },
+        "details": {
+            "desc": "OUM (Ribose-METHYLURIDINE)"
+        }
+    },
+    {
+        "chainid": "S2",
+        "RNA": true,
+        "entityNr": "47",
+        "length": "1869",
+        "type": "rna",
+        "weight": "603351.0",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "polymerDescription": {
+            "description": "18S ribosomal RNA"
+        },
+        "mutation": {
+            "desc": "U582C, A583C, A584G, G798A, C1095U"
+        },
+        "details": {
+            "desc": "Modified nucleotide name present in the sequence Ribose-methylation (OAM; OCM; OGM; OUM) M1A (1-methyladenosine) M6A (6-methyladenosine) 66A (N6,N6-dimethyladenosine) M7A (7-methyladenosine) M3C (3-methylcytidine) E3C (3-ethylcytidine (unknown) A4C (4-acetyl-cytidine) M4C (4-methylcytidine) M5C (5-methylcytidine) PCM (3-propyl-Ribose-methylcytidine) (unknown) M2G (2-methylguanosine) M6G (6-methylguanosine) E6G (6-ethylguanosine) (Unknown) P6G (6-propylguanosine) (Unknown) AGM (7-acetyl-Ribose-methylguanosine) (Unknown) A7G (7-acetylguanosine) (unknown) M7G (7-methylguanosine) E7G (7-ethylguanosine) (Unknown) P7G (7-propylguanosine) (Unknown) MHG (Hyper modification in guanosine) (unknown) OUM (Ribose-METHYLURIDINE) M1U (1-methyluridine) M3U (3-methyluridine) P4U (4-Propyluridine) (Unknown) M5U (5-methyluridine) I4U (4-isopropyluridine) (Unknown) PSU (Pseudouridine) ACP (1-methyl-3-(3-amino-3-carboxypropyl)pseudouridine) 19U (1-methylpseudouridine)"
+        }
+    },
+    {
+        "chainid": "S6",
+        "RNA": true,
+        "entityNr": "48",
+        "length": "75",
+        "type": "rna",
+        "weight": "24231.5",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "polymerDescription": {
+            "description": "Human initiator Met-tRNA-i"
+        }
+    },
+    {
+        "chainid": "LG",
+        "name": "60S ribosomal protein L7a",
+        "entityNr": "10",
+        "length": "266",
+        "type": "protein",
+        "weight": "30061.8",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL8,PLA-X polypeptide,Surfeit locus protein 3"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L7a"
+        },
+        "accession": "P62424"
+    },
+    {
+        "chainid": "LH",
+        "name": "60S ribosomal protein L9",
+        "entityNr": "11",
+        "length": "192",
+        "type": "protein",
+        "weight": "21899.5",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein uL6"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L9"
+        },
+        "accession": "P32969"
+    },
+    {
+        "chainid": "LI",
+        "name": "60S ribosomal protein L10-like",
+        "entityNr": "12",
+        "length": "214",
+        "type": "protein",
+        "weight": "24570.9",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein uL16-like"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L10-like"
+        },
+        "accession": "Q96L21"
+    },
+    {
+        "chainid": "LJ",
+        "name": "60S ribosomal protein L11",
+        "entityNr": "13",
+        "length": "178",
+        "type": "protein",
+        "weight": "20288.5",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "CLL-associated antigen KW-12,Large ribosomal subunit protein uL5"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L11"
+        },
+        "accession": "P62913"
+    },
+    {
+        "chainid": "LL",
+        "name": "60S ribosomal protein L13",
+        "entityNr": "14",
+        "length": "211",
+        "type": "protein",
+        "weight": "24321.7",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Breast basic conserved protein 1,Large ribosomal subunit protein eL13"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L13"
+        },
+        "accession": "P26373"
+    },
+    {
+        "chainid": "LM",
+        "name": "60S ribosomal protein L14",
+        "entityNr": "15",
+        "length": "215",
+        "type": "protein",
+        "weight": "23485.0",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "CAG-ISL 7,Large ribosomal subunit protein eL14"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L14"
+        },
+        "accession": "P50914"
+    },
+    {
+        "chainid": "LN",
+        "name": "60S ribosomal protein L15",
+        "entityNr": "16",
+        "length": "204",
+        "type": "protein",
+        "weight": "24207.3",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL15"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L15"
+        },
+        "accession": "P61313"
+    },
+    {
+        "chainid": "LO",
+        "name": "60S ribosomal protein L13a",
+        "entityNr": "17",
+        "length": "203",
+        "type": "protein",
+        "weight": "23633.4",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "23 kDa highly basic protein,Large ribosomal subunit protein uL13"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L13a"
+        },
+        "accession": "P40429"
+    },
+    {
+        "chainid": "LP",
+        "name": "60S ribosomal protein L17",
+        "entityNr": "18",
+        "length": "184",
+        "type": "protein",
+        "weight": "21443.2",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "60S ribosomal protein L23,Large ribosomal subunit protein uL22,PD-1"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L17"
+        },
+        "accession": "P18621"
+    },
+    {
+        "chainid": "LQ",
+        "name": "60S ribosomal protein L18",
+        "entityNr": "19",
+        "length": "188",
+        "type": "protein",
+        "weight": "21687.7",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL18"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L18"
+        },
+        "accession": "Q07020"
+    },
+    {
+        "chainid": "LR",
+        "name": "60S ribosomal protein L19",
+        "entityNr": "20",
+        "length": "196",
+        "type": "protein",
+        "weight": "23535.3",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL19"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L19"
+        },
+        "accession": "P84098"
+    },
+    {
+        "chainid": "LS",
+        "name": "60S ribosomal protein L18a",
+        "entityNr": "21",
+        "length": "176",
+        "type": "protein",
+        "weight": "20808.5",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL20"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L18a"
+        },
+        "enzClass": {
+            "ec": "2.3.1.275"
+        },
+        "accession": "Q02543"
+    },
+    {
+        "chainid": "LT",
+        "name": "60S ribosomal protein L21",
+        "entityNr": "22",
+        "length": "160",
+        "type": "protein",
+        "weight": "18610.0",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL21"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L21"
+        },
+        "accession": "P46778"
+    },
+    {
+        "chainid": "LU",
+        "name": "60S ribosomal protein L22",
+        "entityNr": "23",
+        "length": "128",
+        "type": "protein",
+        "weight": "14813.0",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "EBER-associated protein,EAP,Epstein-Barr virus small RNA-associated protein,Heparin-binding protein HBp15,Large ribosomal subunit protein eL22"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L22"
+        },
+        "accession": "P35268"
+    },
+    {
+        "chainid": "LV",
+        "name": "60S ribosomal protein L23",
+        "entityNr": "24",
+        "length": "140",
+        "type": "protein",
+        "weight": "14892.5",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "60S ribosomal protein L17,Large ribosomal subunit protein uL14"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L23"
+        },
+        "accession": "P62829"
+    },
+    {
+        "chainid": "LW",
+        "name": "60S ribosomal protein L24",
+        "entityNr": "25",
+        "length": "157",
+        "type": "protein",
+        "weight": "17825.1",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "60S ribosomal protein L30,Large ribosomal subunit protein eL24"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L24"
+        },
+        "accession": "P83731"
+    },
+    {
+        "chainid": "LX",
+        "name": "60S ribosomal protein L23a",
+        "entityNr": "26",
+        "length": "156",
+        "type": "protein",
+        "weight": "17740.2",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein uL23"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L23a"
+        },
+        "accession": "P62750"
+    },
+    {
+        "chainid": "LY",
+        "name": "60S ribosomal protein L26",
+        "entityNr": "27",
+        "length": "145",
+        "type": "protein",
+        "weight": "17303.4",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein uL24"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L26"
+        },
+        "accession": "P61254"
+    },
+    {
+        "chainid": "LZ",
+        "name": "60S ribosomal protein L27",
+        "entityNr": "28",
+        "length": "136",
+        "type": "protein",
+        "weight": "15835.8",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL27"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L27"
+        },
+        "accession": "P61353"
+    },
+    {
+        "chainid": "La",
+        "name": "60S ribosomal protein L27a",
+        "entityNr": "29",
+        "length": "148",
+        "type": "protein",
+        "weight": "16604.5",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein uL15"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L27a"
+        },
+        "accession": "P46776"
+    },
+    {
+        "chainid": "Lb",
+        "name": "60S ribosomal protein L29",
+        "entityNr": "30",
+        "length": "159",
+        "type": "protein",
+        "weight": "17804.3",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Cell surface heparin-binding protein HIP,Large ribosomal subunit protein eL29"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L29"
+        },
+        "accession": "P47914"
+    },
+    {
+        "chainid": "Lc",
+        "name": "60S ribosomal protein L30",
+        "entityNr": "31",
+        "length": "115",
+        "type": "protein",
+        "weight": "12805.1",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL30"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L30"
+        },
+        "accession": "P62888"
+    },
+    {
+        "chainid": "Ld",
+        "name": "60S ribosomal protein L31",
+        "entityNr": "32",
+        "length": "125",
+        "type": "protein",
+        "weight": "14494.9",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL31"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L31"
+        },
+        "accession": "P62899"
+    },
+    {
+        "chainid": "Le",
+        "name": "60S ribosomal protein L32",
+        "entityNr": "33",
+        "length": "135",
+        "type": "protein",
+        "weight": "15898.9",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL32"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L32"
+        },
+        "accession": "P62910"
+    },
+    {
+        "chainid": "Lf",
+        "name": "60S ribosomal protein L35a",
+        "entityNr": "34",
+        "length": "110",
+        "type": "protein",
+        "weight": "12564.7",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Cell growth-inhibiting gene 33 protein,Large ribosomal subunit protein eL33"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L35a"
+        },
+        "accession": "P18077"
+    },
+    {
+        "chainid": "Lg",
+        "name": "60S ribosomal protein L34",
+        "entityNr": "35",
+        "length": "117",
+        "type": "protein",
+        "weight": "13326.1",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL34"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L34"
+        },
+        "accession": "P49207"
+    },
+    {
+        "chainid": "Lh",
+        "name": "60S ribosomal protein L35",
+        "entityNr": "36",
+        "length": "123",
+        "type": "protein",
+        "weight": "14593.6",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein uL29"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L35"
+        },
+        "accession": "P42766"
+    },
+    {
+        "chainid": "Li",
+        "name": "60S ribosomal protein L36",
+        "entityNr": "37",
+        "length": "105",
+        "type": "protein",
+        "weight": "12290.9",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL36"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L36"
+        },
+        "accession": "Q9Y3U8"
+    },
+    {
+        "chainid": "Lj",
+        "name": "60S ribosomal protein L37",
+        "entityNr": "38",
+        "length": "97",
+        "type": "protein",
+        "weight": "11111.0",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "G1.16,Large ribosomal subunit protein eL37"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L37"
+        },
+        "accession": "P61927"
+    },
+    {
+        "chainid": "Lk",
+        "name": "60S ribosomal protein L38",
+        "entityNr": "39",
+        "length": "70",
+        "type": "protein",
+        "weight": "8238.95",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL38"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L38"
+        },
+        "accession": "P63173"
+    },
+    {
+        "chainid": "LA",
+        "name": "60S ribosomal protein L8",
+        "entityNr": "4",
+        "length": "257",
+        "type": "protein",
+        "weight": "28088.9",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein uL2"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L8"
+        },
+        "accession": "P62917"
+    },
+    {
+        "chainid": "Ll",
+        "name": "60S ribosomal protein L39",
+        "entityNr": "40",
+        "length": "51",
+        "type": "protein",
+        "weight": "6426.76",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL39"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L39"
+        },
+        "accession": "P62891"
+    },
+    {
+        "chainid": "Lm",
+        "name": "Ubiquitin-60S ribosomal protein L40",
+        "entityNr": "41",
+        "length": "128",
+        "type": "protein",
+        "weight": "14771.4",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "CEP52,Ubiquitin A-52 residue ribosomal protein fusion product 1"
+        },
+        "polymerDescription": {
+            "description": "Ubiquitin-60S ribosomal protein L40"
+        },
+        "details": {
+            "desc": "Modified amino acid MLZ (Methyl-lysine)"
+        },
+        "accession": "P62987"
+    },
+    {
+        "chainid": "Ln",
+        "name": "60S ribosomal protein L41",
+        "entityNr": "42",
+        "length": "25",
+        "type": "protein",
+        "weight": "3473.45",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "HG12,Large ribosomal subunit protein eL41"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L41"
+        },
+        "accession": "P62945"
+    },
+    {
+        "chainid": "Lo",
+        "name": "60S ribosomal protein L36a",
+        "entityNr": "43",
+        "length": "106",
+        "type": "protein",
+        "weight": "12477.0",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "60S ribosomal protein L44,Cell growth-inhibiting gene 15 protein,Cell migration-inducing gene 6 protein,Large ribosomal subunit protein eL42"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L36a"
+        },
+        "accession": "P83881"
+    },
+    {
+        "chainid": "Lp",
+        "name": "60S ribosomal protein L37a",
+        "entityNr": "44",
+        "length": "92",
+        "type": "protein",
+        "weight": "10299.3",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL43"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L37a"
+        },
+        "accession": "P61513"
+    },
+    {
+        "chainid": "Lr",
+        "name": "60S ribosomal protein L28",
+        "entityNr": "45",
+        "length": "137",
+        "type": "protein",
+        "weight": "15784.6",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL28"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L28"
+        },
+        "accession": "P46779"
+    },
+    {
+        "chainid": "Lz",
+        "name": "60S ribosomal protein L10a",
+        "entityNr": "46",
+        "length": "217",
+        "type": "protein",
+        "weight": "24879.4",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "CSA-19,Large ribosomal subunit protein uL1,Neural precursor cell expressed developmentally down-regulated protein 6,NEDD-6"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L10a"
+        },
+        "accession": "P62906"
+    },
+    {
+        "chainid": "SA",
+        "name": "40S ribosomal protein SA",
+        "entityNr": "49",
+        "length": "295",
+        "type": "protein",
+        "weight": "32883.9",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "37 kDa laminin receptor precursor,37LRP,37/67 kDa laminin receptor,LRP/LR,67 kDa laminin receptor,67LR,Colon carcinoma laminin-binding protein,Laminin receptor 1,LamR,Laminin-binding protein precursor p40,LBP/p40,Multidrug resistance-associated protein MGr1-Ag,NEM/1CHD4,Small ribosomal subunit protein uS2"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein SA"
+        },
+        "accession": "P08865"
+    },
+    {
+        "chainid": "LB",
+        "name": "60S ribosomal protein L3",
+        "entityNr": "5",
+        "length": "403",
+        "type": "protein",
+        "weight": "46211.1",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "HIV-1 TAR RNA-binding protein B,TARBP-B,Large ribosomal subunit protein uL3"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L3"
+        },
+        "accession": "P39023"
+    },
+    {
+        "chainid": "SB",
+        "name": "40S ribosomal protein S3a",
+        "entityNr": "50",
+        "length": "264",
+        "type": "protein",
+        "weight": "30002.1",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein eS1,v-fos transformation effector protein,Fte-1"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S3a"
+        },
+        "accession": "P61247"
+    },
+    {
+        "chainid": "SD",
+        "name": "40S ribosomal protein S3",
+        "entityNr": "51",
+        "length": "243",
+        "type": "protein",
+        "weight": "26729.4",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein uS3"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S3"
+        },
+        "enzClass": {
+            "ec": "4.2.99.18"
+        },
+        "accession": "P23396"
+    },
+    {
+        "chainid": "SE",
+        "name": "40S ribosomal protein S4, X isoform",
+        "entityNr": "52",
+        "length": "263",
+        "type": "protein",
+        "weight": "29654.9",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "SCR10,Single copy abundant mRNA protein,Small ribosomal subunit protein eS4"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S4, X isoform"
+        },
+        "accession": "P62701"
+    },
+    {
+        "chainid": "SF",
+        "name": "40S ribosomal protein S5",
+        "entityNr": "53",
+        "length": "204",
+        "type": "protein",
+        "weight": "22913.5",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein uS7"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S5"
+        },
+        "accession": "P46782"
+    },
+    {
+        "chainid": "SH",
+        "name": "40S ribosomal protein S7",
+        "entityNr": "54",
+        "length": "194",
+        "type": "protein",
+        "weight": "22168.9",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein eS7"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S7"
+        },
+        "accession": "P62081"
+    },
+    {
+        "chainid": "SI",
+        "name": "40S ribosomal protein S8",
+        "entityNr": "55",
+        "length": "208",
+        "type": "protein",
+        "weight": "24263.4",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein eS8"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S8"
+        },
+        "accession": "P62241"
+    },
+    {
+        "chainid": "SK",
+        "name": "40S ribosomal protein S10",
+        "entityNr": "56",
+        "length": "165",
+        "type": "protein",
+        "weight": "18933.8",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein eS10"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S10"
+        },
+        "accession": "P46783"
+    },
+    {
+        "chainid": "SL",
+        "name": "40S ribosomal protein S11",
+        "entityNr": "57",
+        "length": "158",
+        "type": "protein",
+        "weight": "18468.8",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein uS17"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S11"
+        },
+        "accession": "P62280"
+    },
+    {
+        "chainid": "SP",
+        "name": "40S ribosomal protein S15",
+        "entityNr": "58",
+        "length": "145",
+        "type": "protein",
+        "weight": "17076.2",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "RIG protein,Small ribosomal subunit protein uS19"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S15"
+        },
+        "accession": "P62841"
+    },
+    {
+        "chainid": "SQ",
+        "name": "40S ribosomal protein S16",
+        "entityNr": "59",
+        "length": "146",
+        "type": "protein",
+        "weight": "16477.4",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein uS9"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S16"
+        },
+        "accession": "P62249"
+    },
+    {
+        "chainid": "LC",
+        "name": "60S ribosomal protein L4",
+        "entityNr": "6",
+        "length": "427",
+        "type": "protein",
+        "weight": "47817.6",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "60S ribosomal protein L1,Large ribosomal subunit protein uL4"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L4"
+        },
+        "details": {
+            "desc": "Modified amino acid MLZ (Methyl-lysine)"
+        },
+        "accession": "P36578"
+    },
+    {
+        "chainid": "SR",
+        "name": "40S ribosomal protein S17",
+        "entityNr": "60",
+        "length": "135",
+        "type": "protein",
+        "weight": "15578.2",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein eS17"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S17"
+        },
+        "accession": "P08708"
+    },
+    {
+        "chainid": "SS",
+        "name": "40S ribosomal protein S18",
+        "entityNr": "61",
+        "length": "152",
+        "type": "protein",
+        "weight": "17759.8",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Ke-3,Ke3,Small ribosomal subunit protein uS13"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S18"
+        },
+        "accession": "P62269"
+    },
+    {
+        "chainid": "ST",
+        "name": "40S ribosomal protein S19",
+        "entityNr": "62",
+        "length": "145",
+        "type": "protein",
+        "weight": "16091.6",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein eS19"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S19"
+        },
+        "accession": "P39019"
+    },
+    {
+        "chainid": "SU",
+        "name": "40S ribosomal protein S20",
+        "entityNr": "63",
+        "length": "119",
+        "type": "protein",
+        "weight": "13398.8",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein uS10"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S20"
+        },
+        "accession": "P60866"
+    },
+    {
+        "chainid": "SV",
+        "name": "40S ribosomal protein S21",
+        "entityNr": "64",
+        "length": "83",
+        "type": "protein",
+        "weight": "9124.39",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein eS21"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S21"
+        },
+        "accession": "P63220"
+    },
+    {
+        "chainid": "SX",
+        "name": "40S ribosomal protein S23",
+        "entityNr": "65",
+        "length": "143",
+        "type": "protein",
+        "weight": "15844.7",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein uS12"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S23"
+        },
+        "accession": "P62266"
+    },
+    {
+        "chainid": "Sa",
+        "name": "40S ribosomal protein S26",
+        "entityNr": "66",
+        "length": "115",
+        "type": "protein",
+        "weight": "13047.5",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein eS26"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S26"
+        },
+        "accession": "P62854"
+    },
+    {
+        "chainid": "Sc",
+        "name": "40S ribosomal protein S28",
+        "entityNr": "67",
+        "length": "69",
+        "type": "protein",
+        "weight": "7855.05",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein eS28"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S28"
+        },
+        "accession": "P62857"
+    },
+    {
+        "chainid": "Sd",
+        "name": "40S ribosomal protein S29",
+        "entityNr": "68",
+        "length": "56",
+        "type": "protein",
+        "weight": "6690.82",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein uS14"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S29"
+        },
+        "accession": "P62273"
+    },
+    {
+        "chainid": "Sg",
+        "name": "Receptor of activated protein C kinase 1",
+        "entityNr": "69",
+        "length": "317",
+        "type": "protein",
+        "weight": "35115.7",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Cell proliferation-inducing gene 21 protein,Guanine nucleotide-binding protein subunit beta-2-like 1,Guanine nucleotide-binding protein subunit beta-like protein 12.3,Human lung cancer oncogene 7 protein,HLC-7,Receptor for activated C kinase,Small ribosomal subunit protein RACK1"
+        },
+        "polymerDescription": {
+            "description": "Receptor of activated protein C kinase 1"
+        },
+        "accession": "P63244"
+    },
+    {
+        "chainid": "LD",
+        "name": "60S ribosomal protein L5",
+        "entityNr": "7",
+        "length": "297",
+        "type": "protein",
+        "weight": "34426.8",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein uL18"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L5"
+        },
+        "accession": "P46777"
+    },
+    {
+        "chainid": "SC",
+        "name": "40S ribosomal protein S2",
+        "entityNr": "70",
+        "length": "293",
+        "type": "protein",
+        "weight": "31376.5",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "40S ribosomal protein S4,Protein LLRep3,Small ribosomal subunit protein uS5"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S2"
+        },
+        "accession": "P15880"
+    },
+    {
+        "chainid": "SG",
+        "name": "40S ribosomal protein S6",
+        "entityNr": "71",
+        "length": "249",
+        "type": "protein",
+        "weight": "28751.9",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Phosphoprotein NP33,Small ribosomal subunit protein eS6"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S6"
+        },
+        "accession": "P62753"
+    },
+    {
+        "chainid": "SJ",
+        "name": "40S ribosomal protein S9",
+        "entityNr": "72",
+        "length": "194",
+        "type": "protein",
+        "weight": "22641.6",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein uS4"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S9"
+        },
+        "accession": "P46781"
+    },
+    {
+        "chainid": "SM",
+        "name": "40S ribosomal protein S12",
+        "entityNr": "73",
+        "length": "132",
+        "type": "protein",
+        "weight": "14548.9",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein eS12"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S12"
+        },
+        "mutation": {
+            "desc": "L52Q, C69L, K99N"
+        },
+        "accession": "P25398"
+    },
+    {
+        "chainid": "SN",
+        "name": "40S ribosomal protein S13",
+        "entityNr": "74",
+        "length": "151",
+        "type": "protein",
+        "weight": "17259.4",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein uS15"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S13"
+        },
+        "accession": "P62277"
+    },
+    {
+        "chainid": "SO",
+        "name": "40S ribosomal protein S14",
+        "entityNr": "75",
+        "length": "151",
+        "type": "protein",
+        "weight": "16302.8",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein uS11"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S14"
+        },
+        "accession": "P62263"
+    },
+    {
+        "chainid": "SW",
+        "name": "40S ribosomal protein S15a",
+        "entityNr": "76",
+        "length": "130",
+        "type": "protein",
+        "weight": "14865.6",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein uS8"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S15a"
+        },
+        "accession": "P62244"
+    },
+    {
+        "chainid": "SY",
+        "name": "40S ribosomal protein S24",
+        "entityNr": "77",
+        "length": "133",
+        "type": "protein",
+        "weight": "15463.3",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein eS24"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S24"
+        },
+        "accession": "P62847"
+    },
+    {
+        "chainid": "SZ",
+        "name": "40S ribosomal protein S25",
+        "entityNr": "78",
+        "length": "125",
+        "type": "protein",
+        "weight": "13776.2",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein eS25"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S25"
+        },
+        "accession": "P62851"
+    },
+    {
+        "chainid": "Sb",
+        "name": "40S ribosomal protein S27",
+        "entityNr": "79",
+        "length": "84",
+        "type": "protein",
+        "weight": "9480.19",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Metallopan-stimulin 1,MPS-1,Small ribosomal subunit protein eS27"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S27"
+        },
+        "accession": "P42677"
+    },
+    {
+        "chainid": "LE",
+        "name": "60S ribosomal protein L6",
+        "entityNr": "8",
+        "length": "288",
+        "type": "protein",
+        "weight": "32810.2",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein eL6,Neoplasm-related protein C140,Tax-responsive enhancer element-binding protein 107,TaxREB107"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L6"
+        },
+        "accession": "Q02878"
+    },
+    {
+        "chainid": "Se",
+        "name": "40S ribosomal protein S30",
+        "entityNr": "80",
+        "length": "59",
+        "type": "protein",
+        "weight": "6668.94",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Small ribosomal subunit protein eS30"
+        },
+        "polymerDescription": {
+            "description": "40S ribosomal protein S30"
+        },
+        "accession": "P62861"
+    },
+    {
+        "chainid": "Sf",
+        "name": "Ubiquitin-40S ribosomal protein S27a",
+        "entityNr": "81",
+        "length": "156",
+        "type": "protein",
+        "weight": "18004.0",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Ubiquitin carboxyl extension protein 80"
+        },
+        "polymerDescription": {
+            "description": "Ubiquitin-40S ribosomal protein S27a"
+        },
+        "accession": "P62979"
+    },
+    {
+        "chainid": "LF",
+        "name": "60S ribosomal protein L7",
+        "entityNr": "9",
+        "length": "248",
+        "type": "protein",
+        "weight": "29291.0",
+        "Taxonomy": {
+            "name": "Homo sapiens",
+            "id": "9606"
+        },
+        "synonym": {
+            "name": "Large ribosomal subunit protein uL30"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L7"
+        },
+        "accession": "P18124"
+    }
+]

@@ -1,0 +1,1338 @@
+[
+    {
+        "chainid": "5",
+        "RNA": true,
+        "entityNr": "1",
+        "length": "3364",
+        "type": "rna",
+        "weight": "1086990.0",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "25S ribosomal RNA"
+        },
+        "mutation": {
+            "desc": "C1923A, C2021U, C2051U"
+        }
+    },
+    {
+        "chainid": "7",
+        "RNA": true,
+        "entityNr": "2",
+        "length": "121",
+        "type": "rna",
+        "weight": "38951.1",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "RNA (121-MER)"
+        }
+    },
+    {
+        "chainid": "8",
+        "RNA": true,
+        "entityNr": "3",
+        "length": "2825",
+        "type": "rna",
+        "weight": "910659.0",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "5.8S ribosomal RNA"
+        }
+    },
+    {
+        "chainid": "2",
+        "RNA": true,
+        "entityNr": "81",
+        "length": "1798",
+        "type": "rna",
+        "weight": "579240.0",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "18S ribosomal RNA"
+        },
+        "mutation": {
+            "desc": "U676G, G678U"
+        }
+    },
+    {
+        "chainid": "3",
+        "RNA": true,
+        "entityNr": "83",
+        "length": "76",
+        "type": "rna",
+        "weight": "24532.6",
+        "Taxonomy": {
+            "name": "Saccharomyces cerevisiae",
+            "id": "4932"
+        },
+        "polymerDescription": {
+            "description": "RNA (76-MER)"
+        }
+    },
+    {
+        "chainid": "AG",
+        "name": "KLLA0E00573p",
+        "entityNr": "10",
+        "length": "255",
+        "type": "protein",
+        "weight": "28080.9",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0E00573p"
+        },
+        "accession": "B4UN96"
+    },
+    {
+        "chainid": "AH",
+        "name": "KLLA0F04499p",
+        "entityNr": "11",
+        "length": "191",
+        "type": "protein",
+        "weight": "21730.1",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0F04499p"
+        },
+        "accession": "Q6CLA6"
+    },
+    {
+        "chainid": "AI",
+        "name": "KLLA0D05643p",
+        "entityNr": "12",
+        "length": "220",
+        "type": "protein",
+        "weight": "25400.5",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0D05643p"
+        },
+        "accession": "Q6CRX7"
+    },
+    {
+        "chainid": "AJ",
+        "name": "KLLA0F08261p",
+        "entityNr": "13",
+        "length": "174",
+        "type": "protein",
+        "weight": "19821.8",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0F08261p"
+        },
+        "accession": "Q6CKT4"
+    },
+    {
+        "chainid": "AL",
+        "name": "60S ribosomal protein L13",
+        "entityNr": "14",
+        "length": "199",
+        "type": "protein",
+        "weight": "22702.3",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L13"
+        },
+        "accession": "Q875M0"
+    },
+    {
+        "chainid": "AM",
+        "name": "KLLA0B13409p",
+        "entityNr": "15",
+        "length": "138",
+        "type": "protein",
+        "weight": "15037.6",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0B13409p"
+        },
+        "accession": "Q6CVB1"
+    },
+    {
+        "chainid": "AN",
+        "name": "Ribosomal protein L15",
+        "entityNr": "16",
+        "length": "204",
+        "type": "protein",
+        "weight": "24454.3",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "Ribosomal protein L15"
+        },
+        "accession": "Q6CJL7"
+    },
+    {
+        "chainid": "AO",
+        "name": "KLLA0F04675p",
+        "entityNr": "17",
+        "length": "199",
+        "type": "protein",
+        "weight": "22385.3",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0F04675p"
+        },
+        "accession": "Q6CL98"
+    },
+    {
+        "chainid": "AP",
+        "name": "KLLA0A06336p",
+        "entityNr": "18",
+        "length": "184",
+        "type": "protein",
+        "weight": "20696.5",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0A06336p"
+        },
+        "accession": "Q6CXQ6"
+    },
+    {
+        "chainid": "AQ",
+        "name": "KLLA0A07227p",
+        "entityNr": "19",
+        "length": "186",
+        "type": "protein",
+        "weight": "20668.2",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0A07227p"
+        },
+        "accession": "Q6CXL8"
+    },
+    {
+        "chainid": "AR",
+        "name": "KLLA0E12453p",
+        "entityNr": "20",
+        "length": "189",
+        "type": "protein",
+        "weight": "21819.5",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0E12453p"
+        },
+        "accession": "Q6CNH9"
+    },
+    {
+        "chainid": "AS",
+        "entityNr": "21",
+        "length": "172",
+        "type": "protein",
+        "weight": "20494.9",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L20"
+        }
+    },
+    {
+        "chainid": "AT",
+        "name": "KLLA0E23651p",
+        "entityNr": "22",
+        "length": "160",
+        "type": "protein",
+        "weight": "18214.3",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0E23651p"
+        },
+        "accession": "Q6CM20"
+    },
+    {
+        "chainid": "AU",
+        "name": "KLLA0D05181p",
+        "entityNr": "23",
+        "length": "122",
+        "type": "protein",
+        "weight": "13993.7",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0D05181p"
+        },
+        "accession": "Q6CRZ8"
+    },
+    {
+        "chainid": "AV",
+        "name": "KLLA0E06997p",
+        "entityNr": "24",
+        "length": "137",
+        "type": "protein",
+        "weight": "14485.9",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0E06997p"
+        },
+        "accession": "Q6CP75"
+    },
+    {
+        "chainid": "AW",
+        "name": "60S ribosomal protein L24",
+        "entityNr": "25",
+        "length": "155",
+        "type": "protein",
+        "weight": "17638.7",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "synonym": {
+            "name": "Ribosomal protein L30"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L24"
+        },
+        "accession": "P38665"
+    },
+    {
+        "chainid": "AX",
+        "name": "60S ribosomal protein L25",
+        "entityNr": "26",
+        "length": "142",
+        "type": "protein",
+        "weight": "15746.5",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L25"
+        },
+        "accession": "P48045"
+    },
+    {
+        "chainid": "AY",
+        "name": "KLLA0B05742p",
+        "entityNr": "27",
+        "length": "127",
+        "type": "protein",
+        "weight": "14329.7",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0B05742p"
+        },
+        "accession": "Q6CW97"
+    },
+    {
+        "chainid": "AZ",
+        "name": "KLLA0E03455p",
+        "entityNr": "28",
+        "length": "136",
+        "type": "protein",
+        "weight": "15600.4",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0E03455p"
+        },
+        "accession": "Q6CPN9"
+    },
+    {
+        "chainid": "Ba",
+        "name": "RPL28",
+        "entityNr": "29",
+        "length": "149",
+        "type": "protein",
+        "weight": "16584.5",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "RPL28"
+        },
+        "accession": "Q8J287"
+    },
+    {
+        "chainid": "Bb",
+        "name": "60S ribosomal protein L29",
+        "entityNr": "30",
+        "length": "62",
+        "type": "protein",
+        "weight": "7090.36",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L29"
+        },
+        "accession": "Q6CQM1"
+    },
+    {
+        "chainid": "Bc",
+        "name": "60S ribosomal protein L30",
+        "entityNr": "31",
+        "length": "105",
+        "type": "protein",
+        "weight": "11382.3",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "synonym": {
+            "name": "L32"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L30"
+        },
+        "accession": "P38664"
+    },
+    {
+        "chainid": "Bd",
+        "name": "KLLA0B02937p",
+        "entityNr": "32",
+        "length": "114",
+        "type": "protein",
+        "weight": "13177.4",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0B02937p"
+        },
+        "accession": "Q6CWM6"
+    },
+    {
+        "chainid": "Be",
+        "name": "KLLA0E06843p",
+        "entityNr": "33",
+        "length": "130",
+        "type": "protein",
+        "weight": "14686.3",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0E06843p"
+        },
+        "accession": "Q6CP82"
+    },
+    {
+        "chainid": "Bf",
+        "name": "KLLA0D07405p",
+        "entityNr": "34",
+        "length": "107",
+        "type": "protein",
+        "weight": "12108.0",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0D07405p"
+        },
+        "accession": "Q6CRP7"
+    },
+    {
+        "chainid": "Bg",
+        "name": "KLLA0C08371p",
+        "entityNr": "35",
+        "length": "125",
+        "type": "protein",
+        "weight": "14056.6",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0C08371p"
+        },
+        "accession": "Q6CU17"
+    },
+    {
+        "chainid": "Bh",
+        "name": "KLLA0F05247p",
+        "entityNr": "36",
+        "length": "120",
+        "type": "protein",
+        "weight": "14079.7",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0F05247p"
+        },
+        "accession": "Q6CL71"
+    },
+    {
+        "chainid": "Bi",
+        "name": "60S ribosomal protein L36",
+        "entityNr": "37",
+        "length": "100",
+        "type": "protein",
+        "weight": "11128.2",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L36"
+        },
+        "accession": "Q6CR18"
+    },
+    {
+        "chainid": "Bj",
+        "name": "Ribosomal protein L37",
+        "entityNr": "38",
+        "length": "88",
+        "type": "protein",
+        "weight": "9968.55",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "Ribosomal protein L37"
+        },
+        "accession": "Q6CUW0"
+    },
+    {
+        "chainid": "Bk",
+        "name": "KLLA0C18216p",
+        "entityNr": "39",
+        "length": "78",
+        "type": "protein",
+        "weight": "8996.66",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0C18216p"
+        },
+        "accession": "Q6CSS8"
+    },
+    {
+        "chainid": "AA",
+        "name": "KLLA0D16027p",
+        "entityNr": "4",
+        "length": "254",
+        "type": "protein",
+        "weight": "27448.5",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0D16027p"
+        },
+        "accession": "Q6CQM3"
+    },
+    {
+        "chainid": "Bl",
+        "entityNr": "40",
+        "length": "51",
+        "type": "protein",
+        "weight": "6358.64",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L39"
+        }
+    },
+    {
+        "chainid": "Bm",
+        "name": "Ubiquitin fusion protein",
+        "entityNr": "41",
+        "length": "128",
+        "type": "protein",
+        "weight": "14597.1",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "Ubiquitin fusion protein"
+        },
+        "accession": "Q9Y854"
+    },
+    {
+        "chainid": "Bn",
+        "entityNr": "42",
+        "length": "23",
+        "type": "protein",
+        "weight": "3137.99",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L41"
+        }
+    },
+    {
+        "chainid": "Bo",
+        "name": "60S ribosomal protein L44",
+        "entityNr": "43",
+        "length": "106",
+        "type": "protein",
+        "weight": "12267.6",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "synonym": {
+            "name": "60S ribosomal protein L41"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L44"
+        },
+        "accession": "P31027"
+    },
+    {
+        "chainid": "Bp",
+        "name": "KLLA0E05941p",
+        "entityNr": "44",
+        "length": "92",
+        "type": "protein",
+        "weight": "9970.61",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0E05941p"
+        },
+        "accession": "Q6CPC5"
+    },
+    {
+        "chainid": "Bq",
+        "name": "Ribosomal protein",
+        "entityNr": "45",
+        "length": "217",
+        "type": "protein",
+        "weight": "24488.8",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "Ribosomal protein"
+        },
+        "accession": "Q6CWR9"
+    },
+    {
+        "chainid": "Br",
+        "name": "60S acidic ribosomal protein P0",
+        "entityNr": "46",
+        "length": "311",
+        "type": "protein",
+        "weight": "33607.0",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "60S acidic ribosomal protein P0"
+        },
+        "accession": "Q6CW89"
+    },
+    {
+        "chainid": "AK",
+        "entityNr": "47",
+        "length": "147",
+        "type": "protein",
+        "weight": "12528.4",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "GDPCP"
+        }
+    },
+    {
+        "chainid": "A",
+        "name": "40S ribosomal protein S0",
+        "entityNr": "48",
+        "length": "254",
+        "type": "protein",
+        "weight": "28264.5",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0D16027p"
+        },
+        "accession": "Q6CN12"
+    },
+    {
+        "chainid": "B",
+        "name": "40S ribosomal protein S1",
+        "entityNr": "49",
+        "length": "255",
+        "type": "protein",
+        "weight": "28971.6",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L3"
+        },
+        "accession": "Q6CWD0"
+    },
+    {
+        "chainid": "AB",
+        "name": "60S ribosomal protein L3",
+        "entityNr": "5",
+        "length": "387",
+        "type": "protein",
+        "weight": "43781.5",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L3"
+        },
+        "accession": "Q6CJR7"
+    },
+    {
+        "chainid": "C",
+        "name": "KLLA0F09812p",
+        "entityNr": "50",
+        "length": "259",
+        "type": "protein",
+        "weight": "27650.0",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0B07139p"
+        },
+        "accession": "Q6CKL3"
+    },
+    {
+        "chainid": "D",
+        "name": "KLLA0D08305p",
+        "entityNr": "51",
+        "length": "237",
+        "type": "protein",
+        "weight": "26300.5",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0D06941p"
+        },
+        "accession": "Q6CRK7"
+    },
+    {
+        "chainid": "E",
+        "name": "40S ribosomal protein S4",
+        "entityNr": "52",
+        "length": "261",
+        "type": "protein",
+        "weight": "29617.5",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0B04686p"
+        },
+        "accession": "Q6CWJ2"
+    },
+    {
+        "chainid": "F",
+        "name": "KLLA0D10659p",
+        "entityNr": "53",
+        "length": "227",
+        "type": "protein",
+        "weight": "25386.0",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0D03410p"
+        },
+        "accession": "Q6CRA3"
+    },
+    {
+        "chainid": "G",
+        "name": "40S ribosomal protein S6",
+        "entityNr": "54",
+        "length": "236",
+        "type": "protein",
+        "weight": "26970.4",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0E00573p"
+        },
+        "accession": "Q6CM04"
+    },
+    {
+        "chainid": "H",
+        "name": "40S ribosomal protein S7",
+        "entityNr": "55",
+        "length": "190",
+        "type": "protein",
+        "weight": "21735.3",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0F04499p"
+        },
+        "accession": "Q6CTD6"
+    },
+    {
+        "chainid": "I",
+        "name": "40S ribosomal protein S8",
+        "entityNr": "56",
+        "length": "201",
+        "type": "protein",
+        "weight": "22642.7",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0D05643p"
+        },
+        "accession": "Q6CMG3"
+    },
+    {
+        "chainid": "J",
+        "name": "KLLA0E23673p",
+        "entityNr": "57",
+        "length": "188",
+        "type": "protein",
+        "weight": "21587.0",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0F08261p"
+        },
+        "accession": "Q6CM18"
+    },
+    {
+        "chainid": "K",
+        "name": "KLLA0B08173p",
+        "entityNr": "58",
+        "length": "106",
+        "type": "protein",
+        "weight": "12584.4",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "GDPCP"
+        },
+        "accession": "Q6CVZ5"
+    },
+    {
+        "chainid": "L",
+        "name": "KLLA0A10483p",
+        "entityNr": "59",
+        "length": "156",
+        "type": "protein",
+        "weight": "17843.9",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L13"
+        },
+        "accession": "Q6CX80"
+    },
+    {
+        "chainid": "AC",
+        "name": "KLLA0B07139p",
+        "entityNr": "6",
+        "length": "363",
+        "type": "protein",
+        "weight": "39283.2",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0B07139p"
+        },
+        "accession": "Q6CW41"
+    },
+    {
+        "chainid": "M",
+        "name": "40S ribosomal protein S12",
+        "entityNr": "60",
+        "length": "134",
+        "type": "protein",
+        "weight": "14466.4",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0B13409p"
+        },
+        "accession": "Q6CLU4"
+    },
+    {
+        "chainid": "N",
+        "name": "KLLA0F18040p",
+        "entityNr": "61",
+        "length": "151",
+        "type": "protein",
+        "weight": "16989.9",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "Ribosomal protein L15"
+        },
+        "accession": "Q6CJK0"
+    },
+    {
+        "chainid": "O",
+        "name": "40S ribosomal protein S14",
+        "entityNr": "62",
+        "length": "137",
+        "type": "protein",
+        "weight": "14530.7",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "synonym": {
+            "name": "RP59"
+        },
+        "polymerDescription": {
+            "description": "KLLA0F04675p"
+        },
+        "accession": "P27069"
+    },
+    {
+        "chainid": "P",
+        "name": "KLLA0F07843p",
+        "entityNr": "63",
+        "length": "142",
+        "type": "protein",
+        "weight": "15986.8",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0A06336p"
+        },
+        "accession": "Q6CKV4"
+    },
+    {
+        "chainid": "Q",
+        "name": "40S ribosomal protein S16",
+        "entityNr": "64",
+        "length": "143",
+        "type": "protein",
+        "weight": "15874.5",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0A07227p"
+        },
+        "accession": "Q875N2"
+    },
+    {
+        "chainid": "R",
+        "name": "KLLA0B01474p",
+        "entityNr": "65",
+        "length": "136",
+        "type": "protein",
+        "weight": "15722.2",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0E12453p"
+        },
+        "accession": "Q6CWU3"
+    },
+    {
+        "chainid": "S",
+        "name": "KLLA0B01562p",
+        "entityNr": "66",
+        "length": "146",
+        "type": "protein",
+        "weight": "17084.6",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L20"
+        },
+        "accession": "Q6CWT9"
+    },
+    {
+        "chainid": "T",
+        "name": "KLLA0A07194p",
+        "entityNr": "67",
+        "length": "144",
+        "type": "protein",
+        "weight": "15879.0",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0E23651p"
+        },
+        "accession": "Q6CXM0"
+    },
+    {
+        "chainid": "U",
+        "name": "KLLA0F25542p",
+        "entityNr": "68",
+        "length": "117",
+        "type": "protein",
+        "weight": "13337.6",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0D05181p"
+        },
+        "accession": "Q6CIM1"
+    },
+    {
+        "chainid": "V",
+        "name": "40S ribosomal protein S21",
+        "entityNr": "69",
+        "length": "87",
+        "type": "protein",
+        "weight": "9797.95",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0E06997p"
+        },
+        "accession": "Q6CXT6"
+    },
+    {
+        "chainid": "AD",
+        "name": "KLLA0D06941p",
+        "entityNr": "7",
+        "length": "297",
+        "type": "protein",
+        "weight": "33937.1",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0D06941p"
+        },
+        "accession": "Q6CRR9"
+    },
+    {
+        "chainid": "W",
+        "name": "40S ribosomal protein S22",
+        "entityNr": "70",
+        "length": "130",
+        "type": "protein",
+        "weight": "14645.0",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L24"
+        },
+        "accession": "Q6CW21"
+    },
+    {
+        "chainid": "X",
+        "name": "RPS23",
+        "entityNr": "71",
+        "length": "145",
+        "type": "protein",
+        "weight": "16047.9",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L25"
+        },
+        "accession": "Q875M3"
+    },
+    {
+        "chainid": "Y",
+        "name": "40S ribosomal protein S24",
+        "entityNr": "72",
+        "length": "135",
+        "type": "protein",
+        "weight": "15194.5",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0B05742p"
+        },
+        "accession": "Q6CU44"
+    },
+    {
+        "chainid": "Z",
+        "name": "KLLA0B06182p",
+        "entityNr": "73",
+        "length": "108",
+        "type": "protein",
+        "weight": "12002.1",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0E03455p"
+        },
+        "accession": "Q6CW78"
+    },
+    {
+        "chainid": "a",
+        "name": "40S ribosomal protein S26",
+        "entityNr": "74",
+        "length": "119",
+        "type": "protein",
+        "weight": "13540.0",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "RPL28"
+        },
+        "accession": "Q6CS01"
+    },
+    {
+        "chainid": "b",
+        "name": "40S ribosomal protein S27",
+        "entityNr": "75",
+        "length": "82",
+        "type": "protein",
+        "weight": "8884.36",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L29"
+        },
+        "accession": "Q6CNL2"
+    },
+    {
+        "chainid": "c",
+        "name": "40S ribosomal protein S28",
+        "entityNr": "76",
+        "length": "67",
+        "type": "protein",
+        "weight": "7549.82",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "synonym": {
+            "name": "S33"
+        },
+        "polymerDescription": {
+            "description": "60S ribosomal protein L30"
+        },
+        "accession": "P33285"
+    },
+    {
+        "chainid": "d",
+        "name": "40S ribosomal protein S29",
+        "entityNr": "77",
+        "length": "56",
+        "type": "protein",
+        "weight": "6662.57",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0B02937p"
+        },
+        "accession": "Q6CPG3"
+    },
+    {
+        "chainid": "e",
+        "name": "40S ribosomal protein S30",
+        "entityNr": "78",
+        "length": "63",
+        "type": "protein",
+        "weight": "7141.42",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0E06843p"
+        },
+        "accession": "Q6CUH5"
+    },
+    {
+        "chainid": "f",
+        "name": "Ubiquitin-40S ribosomal protein S27a",
+        "entityNr": "79",
+        "length": "150",
+        "type": "protein",
+        "weight": "17111.0",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0D07405p"
+        },
+        "accession": "P69061"
+    },
+    {
+        "chainid": "AE",
+        "name": "KLLA0B04686p",
+        "entityNr": "8",
+        "length": "175",
+        "type": "protein",
+        "weight": "20022.4",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0B04686p"
+        },
+        "accession": "Q6CWE7"
+    },
+    {
+        "chainid": "g",
+        "name": "KLLA0E12277p",
+        "entityNr": "80",
+        "length": "326",
+        "type": "protein",
+        "weight": "35830.9",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0C08371p"
+        },
+        "accession": "Q6CNI7"
+    },
+    {
+        "chainid": "1",
+        "name": "KLLA0F23265p",
+        "entityNr": "82",
+        "length": "967",
+        "type": "protein",
+        "weight": "108918.0",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0F23265p"
+        },
+        "accession": "Q6CIX3"
+    },
+    {
+        "chainid": "AF",
+        "name": "KLLA0D03410p",
+        "entityNr": "9",
+        "length": "241",
+        "type": "protein",
+        "weight": "27127.4",
+        "Taxonomy": {
+            "name": "Kluyveromyces lactis",
+            "id": "28985"
+        },
+        "polymerDescription": {
+            "description": "KLLA0D03410p"
+        },
+        "accession": "Q6CS71"
+    }
+]

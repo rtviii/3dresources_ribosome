@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+
+// replacing the native node require with esm modules-compatible
+require = require('esm')(module /*, options */);
+//calling cli function with the proces's arguments from the cli.js module
+require('../src/cli.js').cli(process.argv);
