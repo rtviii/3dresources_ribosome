@@ -14,7 +14,7 @@ A sample set of data for testing Cypher queries on the development Neo4j instanc
 
 Neighborhood-based (for now) clustering of proteins across structures. Plotting and nomenclature.
 
-### Seed
+### Polycli
 
 Node.js cli-utility for PDB, Uniprot, PFAM data via http:
 - bulk download 
