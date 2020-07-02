@@ -8,7 +8,7 @@ Visualization and parsing of single structures, mapping cluster data onto a pdb 
 
 ### RibDB Data 
 
-A sample set of data for testing Cypher queries on the development Neo4j instanct.
+A sample set of data for testing Cypher queries on the development Neo4j instance.
 
 ### Ribosomal Protein Clustering 
 
